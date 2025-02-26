@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @knightkid96
-- 👀 I’m interested in learning about coding
-- 🌱 I’m currently learning C+
+- 👋 Hi, I’m @knightkid96, people call me Tejas S
+- 👀 I’m interested in learning about Cybersecurity
+- 🌱 I’m currently preparing for Google Cybersecurity Professional Certification
 - 📫 How to reach me - knightkid96@gmail.com
 
 
