@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @knightkid96, people call me Tejas S
 - 👀 I’m interested in learning about Cybersecurity
-- 🌱 I’m currently preparing for Google Cybersecurity Professional Certification
+- 🌱 I’ve completed Google Cybersecurity Professional Certification
+- 🧑‍💻 Currently working on my Technical Skills
 - 📫 How to reach me - knightkid96@gmail.com
 
 
