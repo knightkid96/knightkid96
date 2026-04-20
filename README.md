@@ -25,7 +25,10 @@ Other: HTML, CSS, JavaScript
 
 📫 Connect With Me
 📧 Email: knightkid96@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/tejas-shesh-cybersecurity
+🔗 LinkedIn: https://linkedin.com/in/tejas-shesh-mar002
+🌍 Portfolio/Blog: https://theknightkid.wordpress.com/
+🎥 YouTube: https://youtube.com/@knightkid.yt
+📸 Instagram: https://instagram.com/knightkid.yt
 
 ⚡ Fun Fact
 I enjoy breaking down complex tech problems and turning them into simple, practical solutions.
