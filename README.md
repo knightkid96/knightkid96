@@ -1,7 +1,7 @@
 # Hi, I’m Tejas S (@knightkid96)
 
 I’m interested in cybersecurity and enjoy working on practical, real-world tech projects.  
-I’ve completed the Google Cybersecurity Professional Certificate and I’m currently focusing on building skills in QA automation, software testing, and system security.
+I’ve completed the Google Cybersecurity Professional Certificate and I’m currently focusing on building skills in software engineering, QA automation, software testing, and system security.
 
 ---
 
