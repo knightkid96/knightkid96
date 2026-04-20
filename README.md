@@ -1,11 +1,33 @@
-- 👋 Hi, I’m @knightkid96, people call me Tejas S
-- 👀 I’m interested in learning about Cybersecurity
-- 🌱 I’ve completed Google Cybersecurity Professional Certification
-- 🧑‍💻 Currently working on my Technical Skills
-- 📫 How to reach me - knightkid96@gmail.com
+👋 Hi, I’m Tejas S (@knightkid96)
 
+🚀 About Me
+👀 Passionate about Cybersecurity & Technology
+🎓 Completed Google Cybersecurity Professional Certification
+🧑‍💻 Currently building skills in QA Automation, Software Testing & Security
+🔍 Interested in Vulnerability Assessment, Threat Analysis & System Security
 
-<!---
-knightkid96/knightkid96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Skills & Tools
+Cybersecurity: Threat Analysis, Vulnerability Assessment
+Testing: Manual Testing, QA Processes, Defect Lifecycle
+Automation: Playwright (Learning), Cypress (Basics)
+Database: SQL
+Tools: Git, GitHub, Jira (Basics)
+Other: HTML, CSS, JavaScript
+
+📌 Current Focus
+🔐 Advancing in Cybersecurity Analysis
+🧪 Building Automation Testing Projects
+📈 Strengthening real-world technical skills
+
+📂 Featured Projects
+🔐 StegaCipher – Secure communication using AES + Image Steganography
+🧪 QA Automation Framework 
+
+📫 Connect With Me
+📧 Email: knightkid96@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/tejas-shesh-cybersecurity
+
+⚡ Fun Fact
+I enjoy breaking down complex tech problems and turning them into simple, practical solutions.
+
+⭐ Always learning, always building.
